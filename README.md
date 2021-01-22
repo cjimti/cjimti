@@ -2,7 +2,7 @@ Follow or contact me on Twitter: [@cjimti](https://twitter.com/cjimti)
 
 ## Author
 
-Please check out my new book publiced by Apress: "[Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning](https://www.amazon.com/Advanced-Platform-Development-Kubernetes-Management/dp/1484256107/)". Learn how to build data platforms with Kubernetes using a wide wange of technologies, including: Kafka, NiFi, MinIO, Hive, Cassandra, Zookeeper, Mosquitto, Elasticsearch, Logstash, Kibana, Presto, OpenFaaS, Ethereum, Keycloak, Jupyter, MLflow, and Seldon Core and more! [Read more](https://imti.co/kubernetes-platform-book/) about the book or review the [source](https://github.com/apk8s/book-source). 
+Please check out my new book publiced by Apress: "[Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning](https://www.amazon.com/Advanced-Platform-Development-Kubernetes-Management/dp/1484256107/)". Learn how to build data platforms with Kubernetes using a wide range of technologies, including: Kafka, NiFi, MinIO, Hive, Cassandra, Zookeeper, Mosquitto, Elasticsearch, Logstash, Kibana, Presto, OpenFaaS, Ethereum, Keycloak, Jupyter, MLflow, and Seldon Core and more! [Read more](https://imti.co/kubernetes-platform-book/) about the book or review the [source](https://github.com/apk8s/book-source). 
 
 ## Open Source
 
