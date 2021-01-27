@@ -1,18 +1,18 @@
 Follow or contact me on Twitter: [@cjimti](https://twitter.com/cjimti)
 
-## Author
+## Book Author
 
 [![Book Cover - Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning](https://raw.githubusercontent.com/apk8s/book-source/master/img/apk8s-banner-w.jpg)](https://amzn.to/3g3ihZ3)
 
 Please check out my new book published by Apress: "[Advanced Platform Development with Kubernetes: Enabling Data Management, the Internet of Things, Blockchain, and Machine Learning](https://www.amazon.com/Advanced-Platform-Development-Kubernetes-Management/dp/1484256107/)". Learn how to build data platforms with Kubernetes using a wide range of technologies, including: Kafka, NiFi, MinIO, Hive, Cassandra, Zookeeper, Mosquitto, Elasticsearch, Logstash, Kibana, Presto, OpenFaaS, Ethereum, Keycloak, Jupyter, MLflow, and Seldon Core and more! [Read more](https://imti.co/kubernetes-platform-book/) about the book or review the [source](https://github.com/apk8s/book-source). 
 
-## Open Source
+## Open Source Developer
 
 [![kubefwd - kubernetes bulk port forwarding](https://raw.githubusercontent.com/txn2/kubefwd/master/kubefwd-mast2.jpg)](https://github.com/txn2/kubefwd)
 
 If you are a developer using Kubernetes please checkout my open source project [kubefwd](https://github.com/txn2/kubefwd) (Kube Forward). [kubefwd](https://github.com/txn2/kubefwd) is a command line utility built to port forward multiple services within one or more namespaces on one or more Kubernetes clusters to assist in local development.
 
-## Professional
+## Professional Software Architect and Manager
 
 I lead a talented team of software development and creative engineers, covering many industries looking to collect, analyze, move, buffer, queue, process and present data in significant ways. My expertise and that of my team revolve around microservices, artificial intelligence, algorithms, machine learning and blockchain technologies.
 
